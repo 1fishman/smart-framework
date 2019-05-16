@@ -1,6 +1,6 @@
 ## 总体描述
 smart-framework是一个小型的web框架,集成了 Ioc AOP,事务处理与数据库封装等特性.     
-此项目参考的开源中国上黄勇老师的smart-framework框架, 自己也实现了一个小的. 实现了仅有其中的一部分功能.另外也集成了一下mybatis框架,数据库可以不用自己的api.
+此项目参考的开源中国上黄勇老师的smart-framework框架, 自己也跟着黄勇老师也做了一个. 实现了仅有其中的一部分功能.另外也集成了一下mybatis框架,数据库可以不用自己的api.
 
 ## 基本配置 
 首先要在classpath路径下新建一个名叫smart.properties的文件，里面包含如下属性.
